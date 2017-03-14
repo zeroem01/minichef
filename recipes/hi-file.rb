@@ -4,6 +4,6 @@ template '/home/ec2-user/hi.txt' do
   group 'ec2-user'
   mode '0755'
   variables (
-    boom_sub: 'boom!'
+    boom_sub: 'boom'
   )
 end
