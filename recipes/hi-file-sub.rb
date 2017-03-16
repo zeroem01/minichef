@@ -7,6 +7,7 @@ template '/home/ec2-user/hi-sub.txt' do
     :ip => node['ipaddress'],
     :fqdn => node['fqdn'],
     :bam => 'bam',
-    :boom => 'boom'
+    :boom => 'boom',
+    :little_richard => 'womp babalubam a bom bam boom'
     })
 end
