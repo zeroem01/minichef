@@ -6,6 +6,7 @@ template '/home/ec2-user/hi-sub.txt' do
   variables({
     :ip => node['ipaddress'],
     :fqdn => node['fqdn'],
-    :boom_sub => 'boom'
+    :bam => 'bam',
+    :boom => 'boom'
     })
 end
