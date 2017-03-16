@@ -3,7 +3,7 @@ template '/home/ec2-user/hi-sub.txt' do
   owner 'ec2-user'
   group 'ec2-user'
   mode '0755'
-  variables ({
+  variables({
     :ip => node['ipaddress'],
     :fqdn => node['fqdn']
     })
