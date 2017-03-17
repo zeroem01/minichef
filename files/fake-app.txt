@@ -1,2 +1,2 @@
-Hi There! (Erb sytle!)
-Altough this is a template, there is no substituion.
+Make believe this is a .war file.
+
