@@ -1,0 +1,2 @@
+Hi There! (Erb sytle!)
+Altough this is a template, there is no substituion.
